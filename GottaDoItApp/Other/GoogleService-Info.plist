@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>585720091753-khhcff9fat8vetm2j977nf90aek4dr99.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.585720091753-khhcff9fat8vetm2j977nf90aek4dr99</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAvVFo4pIBFQe6MfTAmU7-xFekwxGb_wFI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>585720091753</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>-.GottaDoIt</string>
+	<key>PROJECT_ID</key>
+	<string>swiftui-gotta-do-it</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftui-gotta-do-it.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:585720091753:ios:23bce0e0c4f559e029bef8</string>
+</dict>
+</plist>

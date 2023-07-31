@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  GottaDoIt
+
+  Created by Stanislav on 29.06.2023.
+  
+*/
+"PROFILE" = "ПРОФИЛЬ";
+"Loading Profile..." = "Загрузка профиля...";
+"Log In" = "Войти";
+"Please fill in all fields." = "Пожалуйста запоните все поля.";
+"Not registered yet?" = "Еще не зарегистрированы?";
+"Registration." = "Зарегистрироваться.";
+"Registration" = "Регистрация";
+"Please enter valid email." = "Пожалуйста укажите корректный email";
+"Name" = "Имя";
+"Name:" = "Имя:";
+"Email:" = "Email:";
+"Registration date:" = "Дата регистрации:";
+"Log Out" = "Выход";
+"Tasks" = "Задачи";
+"Profile" = "Профиль";
+"Delete" = "Удалить";
+"DO IT" = "СДЕЛАЙ ЭТО";
+"New Task" = "Новая задача";
+"Title" = "Заголовок";
+"Deadline" = "Срок выполнения";
+"Save" = "Сохранить";
+"Error" = "Ошибка";
+"Please complete all fields and select today's date or later." = "Пожалуйста, заполните все поля и выберите сегодняшнюю дату или позднее.";
+"Email Address" = "Адрес Email";
+"Password" = "Пароль";
+"Create Account" = "Зарегистрироваться";
+
